@@ -67,6 +67,7 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_repositories: yes
+          plugin_repositories_featured: docker-pihole-unbound, docker-influxdb-grafana-telegraf
           plugin_repositories_order: featured, pinned, starred, random
           plugin_stars: yes
           plugin_stars_limit: 4
